@@ -1,0 +1,26 @@
+#search-bar {
+  display: grid;
+  grid-template-columns: 94% 6%;
+}
+
+.list-group-item {
+  display: grid;
+  grid-template-columns: 80% 12% 8%;
+}
+
+.list-group-item h6 {
+  margin: 0;
+  font-size: x-large;
+}
+
+.list-group-item .btn {
+  margin: 3px;
+}
+
+.card_type {
+  cursor: pointer;
+}
+
+.list_type {
+  cursor: pointer;
+}
